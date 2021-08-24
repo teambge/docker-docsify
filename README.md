@@ -18,6 +18,10 @@ $ docker run -it -v $PWD:/docs -p 3000:3000 teambge/docisify
 
 # Source project
 
+The current project is too old and uses an earlier version of Node.
+
+So I upgrade it.
+
 ```
 $ docker pull quintoandar/docisify
 ```
