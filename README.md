@@ -1,4 +1,4 @@
-# docker-docsify
+# docsify-docker
 
 Docsify server in a docker container.
 
